@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "bimester": 1,
+      "average": 6.95,
+      "grades": [
+        {
+          "id": "1",
+          "title": "Biologia",
+          "createdAt": "2022-04-28",
+          "grade": 5.9
+        },
+        {
+          "id": "2",
+          "title": "Artes",
+          "createdAt": "2022-04-28",
+          "grade": 6.7
+        },
+        {
+          "id": "3",
+          "title": "Geografia",
+          "createdAt": "2022-04-28",
+          "grade": 8.2
+        },
+        {
+          "id": "4",
+          "title": "Sociologia",
+          "createdAt": "2022-04-28",
+          "grade": 7
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "bimester": 2,
+      "average": 9.5,
+      "grades": [
+        {
+          "id": "1",
+          "title": "Biologia",
+          "createdAt": "2022-04-28",
+          "grade": 5.9
+        },
+        {
+          "id": "2",
+          "title": "Artes",
+          "createdAt": "2022-04-28",
+          "grade": 6.7
+        },
+        {
+          "id": "3",
+          "title": "Geografia",
+          "createdAt": "2022-04-28",
+          "grade": 8.2
+        },
+        {
+          "id": "4",
+          "title": "Sociologia",
+          "createdAt": "2022-04-28",
+          "grade": 7
+        }
+      ]
+    }
+  ]
+}
